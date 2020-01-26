@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloCaleb</string>
+    <string name="Intro">Hello from Caleb!</string>
+    <string name="colorChange">Change Text Color</string>
+    <string name="bgChange">Change View Color</string>
+    <string name="textChange">Change Text</string>
+</resources>
